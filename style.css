@@ -1,0 +1,36 @@
+
+#shell {
+  height: 640px;
+  width: 640px;
+  clear: right;
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+}
+#first{
+  display: inline-block;
+  clear: both;
+}
+#second{
+  display: inline-block;
+  clear: both;
+  }
+.row1 {
+  display: inline-block;
+float: left;
+  padding: 0;
+  margin: 0;
+  height: 40px;
+  width: 40px;
+  background-color: red;
+}
+.row2 {
+  display: inline-block;
+  position: relative 38px 0 0 0;
+float: left;
+  padding: 0;
+  margin: 0;
+  height: 40px;
+  width: 40px;
+  background-color: green;
+}
